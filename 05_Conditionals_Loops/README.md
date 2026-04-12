@@ -92,9 +92,9 @@ for i in range(1, 6):
 
 ---
 
-## 🧩 Practice Exercises
+## 🧩 Practice Scripts
 
-The `Practice_Exercises/` folder includes small projects and logic-building challenges related to **conditionals and loops**.
+The `practice_scripts` folder includes small projects and logic-building challenges related to **conditionals and loops**.
 
 ### Example Challenges:
 
