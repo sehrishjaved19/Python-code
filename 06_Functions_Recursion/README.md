@@ -27,7 +27,7 @@ You will learn:
 │   ├── 02_return_and_parameters.py
 │   ├── 03_global_variables_functions.py
 │   ├── 04_recursion_basics.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 
 ```
@@ -88,7 +88,7 @@ print("Factorial of 5:", factorial(5))
 
 ## 🧩 Practice Exercises
 
-The `Practice_Exercises/` folder includes beginner-to-intermediate problems designed to reinforce your understanding of **functions** and **recursion**.
+The `practice_scripts/` folder includes beginner-to-intermediate problems designed to reinforce your understanding of **functions** and **recursion**.
 
 ### Example Challenges:
 
