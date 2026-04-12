@@ -16,8 +16,6 @@ In this section, you’ll explore different types of operators in Python that fo
 ├── 03_comparison_operators.py
 ├── 04_logical_operators.py
 ├── 05_truth_tables.py
-├── Practice_Exercises/
-│   └── (practice files)
 └── README.md
 ```
 
