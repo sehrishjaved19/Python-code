@@ -30,7 +30,7 @@ In this section, you will learn:
 │   ├── 05_for_loop.py
 │   ├── 06_break_continue_statement.py
 │   ├── 07_pass_statement.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 
 ```
