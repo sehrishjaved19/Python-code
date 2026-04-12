@@ -29,7 +29,7 @@ Here you’ll explore:
 ├── 06_with_statement.py
 ├── file.txt
 ├── poem.txt
-├── Practice_Exercises/
+├── word_search_in_file.py
 └── README.md
 
 ```
@@ -46,7 +46,6 @@ Here you’ll explore:
 | `04_append_file.py` | Demonstrates appending text to an existing file using mode `"a"` (preserves existing content). |
 | `06_with_statement.py` | Explains and demonstrates `with open(...) as f:` — best practice for auto-closing files and safe handling. |
 | `file.txt`, `poem.txt` | Example data files used by the above scripts. |
-| `Practice_Exercises/` | Folder for hands-on tasks (word counter, merge files, file cleaner, etc.). |
 
 ---
 
@@ -118,7 +117,6 @@ By the end of this section you should be able to:
 * Use `.strip()` when printing lines to avoid extra blank lines.
 * Never hard-code absolute file paths if you plan to share the repo — use relative paths.
 * Avoid storing secrets or credentials in plain text files in the repo.
-* Add `Practice_Exercises/README.md` documenting each practice file briefly.
 
 ---
 
