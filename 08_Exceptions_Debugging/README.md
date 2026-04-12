@@ -24,7 +24,6 @@ In this section, you’ll learn:
 │   ├── 02_finally_else.py
 │   ├── 03_raise_custom_errors.py
 │   ├── 04_debugging_tips.py
-│   ├── Practice_Exercises/
 │   └── README.md
 ```
 
@@ -38,22 +37,6 @@ In this section, you’ll learn:
 | `02_finally_else.py` | Demonstrates the use of `else` and `finally` clauses for cleaner error-handling logic. |
 | `03_raise_custom_errors.py` | Shows how to raise user-defined exceptions using the `raise` keyword. |
 | `04_debugging_tips.py` | Covers multiple debugging techniques including `print()`, `assert`, and `breakpoint()`. |
-
----
-
-## 📂 Practice Folder
-
-### `Practice_Exercises/`
-This folder includes coding exercises to help you apply what you’ve learned.  
-You’ll practice:
-- Handling different types of errors (ZeroDivisionError, ValueError, etc.)  
-- Writing custom exceptions.  
-- Debugging faulty code to identify and fix logical or runtime bugs.  
-
-Example exercises:
-- Create a program that divides two numbers safely with `try-except`.  
-- Build a temperature converter that raises an exception if invalid input is entered.  
-- Debug a function that incorrectly calculates totals using `print()` and `breakpoint()`.
 
 ---
 
