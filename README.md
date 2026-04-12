@@ -1,21 +1,14 @@
 # 🐍 Learn-Python Repository
 
-Welcome to the **Learn-Python Repository** — a complete, structured journey through **Python programming**, from beginner to advanced topics.  
-This repository is designed for learners who want to **understand Python concept by concept**, with each section containing well-documented scripts, exercises, and practical examples.
+This repository, **learn-Python**, is my personal learning archive for Python programming.
+As a Computer Science student, I created this space to track my progress, practice coding concepts, and improve my problem-solving skills. It includes topic-wise Python programs, examples, and exercises that represent my learning journey step by step.
 
 ---
 
-## 🚀 About This Repository
-
-This repository serves as a **hands-on Python learning path**, organized into logical sections that build upon each other.  
-It starts with the basics — variables, data types, and loops — and gradually advances toward **functions, file handling, object-oriented programming, and mini-projects**.
-
 Each folder includes:
 - 🧩 **Topic-based Python scripts**  
-- 🧠 **Practice exercises** to reinforce learning  
+- 🧠 **practice_scripts** to reinforce learning  
 - 📘 **README.md** explaining the concepts covered  
-
-Whether you’re a **student, beginner developer, or self-learner**, this repository helps you **master Python through structured practice**.
 
 ---
 
@@ -33,15 +26,13 @@ Whether you’re a **student, beginner developer, or self-learner**, this reposi
 | 07 | [File I/O](./07_File_IO/README.md) | Learn to read, write, and manipulate text files in Python. |
 | 08 | [Exceptions & Debugging](./08_Exceptions_Debugging/README.md) | Handle runtime errors and apply debugging techniques. |
 | 09 | [Modules & Packages](./09_Modules_and_Packages/README.md) | Work with Python’s built-in modules and modular code organization. |
-| 10 | [Object-Oriented Programming](./10_Object_Oriented_Programming/README.md) | Dive into classes, objects, inheritance, and encapsulation. |
-| 11 | [Mini Projects](./11_Mini_Projects/README.md) | Build practical tools like To-Do apps, file organizers, and more. (**working on it**)|
 
 ---
 
 ## 🗂️ Folder Structure
 
 ```
-Python-code/
+learn-python/
 │
 ├── 00_Introduction/
 │   ├── 01_hello_world.py
@@ -50,7 +41,7 @@ Python-code/
 │   ├── 04_datatypes.py
 │   ├── 05_typecasting.py
 │   ├── 06_input_output.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 01_Strings/
@@ -62,7 +53,7 @@ Python-code/
 │   ├── 06_escape_sequences.py
 │   ├── 07_escape_methods.py
 │   ├── 08_strings_are_array.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 02_Lists_Tuples/
@@ -71,7 +62,7 @@ Python-code/
 │   ├── 03_tuples_basics.py
 │   ├── 04_tuple_methods.py
 │   ├── 05_unpacking.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 03_Dictionaries_Sets/
@@ -80,7 +71,7 @@ Python-code/
 │   ├── 03_set_basics.py
 │   ├── 04_set_methods.py
 │   ├── 05_operations_on_sets.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 04_Operators/
@@ -89,7 +80,6 @@ Python-code/
 │   ├── 03_comparison_operators.py
 │   ├── 04_logical_operators.py
 │   ├── 05_truth_tables.py
-│   ├── Practice_Exercises/
 │   └── README.md
 │
 ├── 05_Conditionals_Loops/
@@ -100,7 +90,7 @@ Python-code/
 │   ├── 05_for_loop.py
 │   ├── 06_break_continue_statement.py
 │   ├── 07_pass_statement.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 06_Functions_Recursion/
@@ -108,7 +98,7 @@ Python-code/
 │   ├── 02_return_and_parameters.py
 │   ├── 03_global_variables_functions.py
 │   ├── 04_recursion_basics.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 │
 ├── 07_File_IO/
@@ -119,6 +109,7 @@ Python-code/
 │   ├── 06_with_statement.py
 │   ├── file.txt
 │   ├── poem.txt
+│   ├── word_search_in_file.py
 │   └── README.md
 │
 ├── 08_Exceptions_Debugging/
@@ -136,28 +127,6 @@ Python-code/
 │   ├── 05_regex_module.py
 │   └── README.md
 │
-├── 10_Object_Oriented_Programming/
-│   ├── 01_classes_objects.py
-│   ├── 02_constructors_init.py
-│   ├── 03_inheritance.py
-│   ├── 04_class_methods.py
-│   ├── 05_static_methods.py
-│   ├── 06_dunder_methods.py
-│   ├── 07_encapsulation_private.py
-│   ├── 08_polymorphism.py
-│   ├── Practice_Exercises/
-│   └── README.md
-│
-├── 11_Mini_Projects/
-│   ├── 01_guess_the_number.py
-│   ├── 02_snake_water_gun.py
-│   ├── 03_email_slicer.py
-│   ├── 04_news_reader.py
-│   ├── 05_alarm_clock.py
-│   ├── 06_quiz_game.py
-│   ├── Practice_Exercises/
-│   └── README.md
-│
 ├── LICENSE
 ├── README.md
 ├── CONTRIBUTING.md
@@ -167,29 +136,17 @@ Python-code/
 ```
 ---
 
-## 🧠 Learning Objectives
-
-By following this repository, you’ll learn to:
-- Understand **core Python syntax and concepts**.  
-- Write clean, modular, and reusable Python code.  
-- Apply problem-solving through **loops, conditionals, and recursion**.  
-- Handle files and exceptions effectively.  
-- Build foundational **OOP (Object-Oriented Programming)** skills.  
-- Work with **real-world mini projects** that strengthen your portfolio.  
-
----
-
 ## 💡 How to Use This Repository
 
 1. **Clone or Download** the repository:  
    ```bash
-   git clone https://github.com/your-username/Python-code.git
+   git clone https://github.com/your-username/learn-python.git
    ```
 
 2. **Open in VS Code or any IDE**.
 3. Navigate to the desired section (e.g., `03_Dictionaries_Sets/`).
 4. Run each script in order and read the corresponding `README.md`.
-5. Practice with the exercises provided in the `Practice_Exercises/` folders.
+5. Practice with the exercises provided in the `practice_scripts/` folders.
 
 ---
 
@@ -198,10 +155,6 @@ By following this repository, you’ll learn to:
 * Python 3.10 or above
 * A text editor or IDE (e.g., VS Code, PyCharm, Jupyter)
 * Basic command-line knowledge
-
-Optional:
-
-* Internet connection for learning resources or module installations.
 
 ---
 
@@ -222,19 +175,6 @@ Optional:
 * Weather App
 
 Each project reinforces real-world logic, syntax, and problem-solving.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-If you’d like to add more exercises, fix code, or improve documentation:
-
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m "Added new example"`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a **Pull Request**
 
 ---
 
