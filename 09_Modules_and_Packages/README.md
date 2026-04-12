@@ -24,7 +24,6 @@ You’ll learn:
 │   ├── 03_math_module.py
 │   ├── 04_random_num.py
 │   ├── 05_regex_module.py
-│   ├── Practice_Exercises/
 │   └── README.md
 ```
 
@@ -40,19 +39,6 @@ You’ll learn:
 | `03_math_module.py` | Covers mathematical operations and constants using the `math` module (`sqrt`, `pow`, `pi`, etc.). |
 | `04_random_num.py` | Explains how to generate random numbers, choices, and shuffles using the `random` module. |
 | `05_regex_module.py` | Introduces the `re` (Regular Expression) module for pattern matching and text searching. |
-
----
-
-## 📂 Practice Folder
-
-### `Practice_Exercises/`
-This folder includes hands-on challenges and coding problems to reinforce what you’ve learned.
-
-Example exercises:
-- Create a simple **birthday countdown** using the `datetime` module.  
-- Build a **math quiz generator** using the `random` module.  
-- Extract all email addresses from a paragraph using **regular expressions**.  
-- Calculate circle area and perimeter using constants from the `math` module.  
 
 ---
 
@@ -83,22 +69,6 @@ match = re.search(r"\S+@\S+", text)
 if match:
     print("Email found:", match.group())
 ```
-
----
-
-## 🗂️ Folder Structure
-
-```
-├── 09_Modules_and_Packages/
-│   ├── 01_built_in_modules.py
-│   ├── 02_date_time_module.py
-│   ├── 03_math_module.py
-│   ├── 04_random_num.py
-│   ├── 05_regex_module.py
-│   ├── Practice_Exercises/
-│   └── README.md
-```
-
 ---
 
 ## 🎯 Learning Goals
