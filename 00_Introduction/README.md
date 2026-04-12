@@ -16,7 +16,7 @@ Here, you’ll write your **first Python program**, understand how **comments**,
 │   ├── 04_datatypes.py
 │   ├── 05_typecasting.py
 │   ├── 06_input_output.py
-│   ├── Practice_Exercises/
+│   ├── Practice_scripts/
 │   └── README.md
 ```
 
@@ -44,7 +44,7 @@ In this section, you’ll learn to:
 | `04_datatypes.py`            | Covers Python’s built-in data types like int, float, string, and bool.              |
 | `05_typecasting.py`          | Demonstrates converting between types (e.g., string → int → float).                 |
 | `06_input_output.py`         | Teaches how to take user input and print formatted output.                          |
-| `Practice_Exercises/`        | Contains mini coding challenges and small practice tasks to strengthen your basics. |
+| `practice_scripts/`          | Contains mini coding challenges and small practice tasks to strengthen your basics. |
 
 ---
 
