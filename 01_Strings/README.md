@@ -18,7 +18,7 @@ In this section, you’ll learn how to create, modify, and format strings effici
 │   ├── 06_escape_sequences.py
 │   ├── 07_escape_methods.py
 │   ├── 08_strings_are_array.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 ```
 
@@ -49,7 +49,7 @@ Here you’ll explore:
 | `06_escape_sequences.py`        | Teaches how to use escape characters like `\n` (newline) and `\t` (tab).                            |
 | `07_escape_methods.py`          | Explains how to handle special or unprintable characters safely in strings.                         |
 | `08_strings_are_array.py`       | Illustrates how strings behave like character arrays for easy indexing.                             |
-| `Practice_Exercises/`           | Contains mini challenges to reinforce string concepts through hands-on coding.                      |
+| `practice_scripts/`           | Contains mini challenges to reinforce string concepts through hands-on coding.                      |
 
 ---
 
