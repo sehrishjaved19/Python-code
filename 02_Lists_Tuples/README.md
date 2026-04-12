@@ -15,7 +15,7 @@ They allow you to store, organize, and manage collections of data efficiently �
 │   ├── 03_tuples_basics.py
 │   ├── 04_tuple_methods.py
 │   ├── 05_unpacking.py
-│   ├── Practice_Exercises/
+│   ├── practice_scripts/
 │   └── README.md
 ```
 
@@ -42,7 +42,7 @@ In this section, you’ll explore:
 | `03_tuples_basics.py` | Explains tuple creation, indexing, and how tuples differ from lists.                                     |
 | `04_tuple_methods.py` | Covers tuple operations and functions like `count()` and `index()`.                                      |
 | `05_unpacking.py`     | Demonstrates how to unpack lists or tuples into individual variables for cleaner, readable code.         |
-| `Practice_Exercises/` | Contains practical exercises to help reinforce list and tuple concepts through hands-on coding.          |
+| `practice_scripts/` | Contains practical exercises to help reinforce list and tuple concepts through hands-on coding.          |
 
 ---
 
