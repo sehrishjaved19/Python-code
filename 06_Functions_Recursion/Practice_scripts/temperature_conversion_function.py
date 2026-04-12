@@ -1,5 +1,5 @@
 #write a python program using function to convert celsius to fahrenheit.
-# c= 5*f-32/9
+# C = (F-32) × 5/9
 def f_to_c(f):
     return 5*(f-32)/9
 
