@@ -16,8 +16,7 @@ In this section, you’ll learn how to work with **key-value pairs** in dictiona
 ├── 03_set_basics.py
 ├── 04_set_methods.py
 ├── 05_operations_on_sets.py
-├── Practice_Exercises/
-│   └── (practice files)
+├── practice_scripts/
 └── README.md
 ```
 
@@ -45,7 +44,7 @@ You’ll learn:
 | `03_set_basics.py`         | Explains what sets are, how to create them, and their property of storing only unique values.                        |
 | `04_set_methods.py`        | Covers common set methods including `add()`, `remove()`, `discard()`, and `clear()`.                                 |
 | `05_operations_on_sets.py` | Explains mathematical operations on sets: `union()`, `intersection()`, `difference()`, and `symmetric_difference()`. |
-| `Practice_Exercises/`      | A collection of coding exercises to help you apply your knowledge of dictionaries and sets.                          |
+| `practice_scripts/`        | A collection of coding exercises to help you apply your knowledge of dictionaries and sets.                          |
 
 ---
 
